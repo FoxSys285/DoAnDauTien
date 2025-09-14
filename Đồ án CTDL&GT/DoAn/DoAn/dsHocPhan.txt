@@ -1,0 +1,22 @@
+21
+0101001625,Lich su Dang Cong san Viet Nam,Bat buoc,2,Dai hoc tai chuc
+0101002921,Lap trinh Web,Tu chon,3,Dai hoc chinh quy
+0101003015,Logic hoc,Tu chon,2,Dai hoc chinh quy
+0101003158,Mang may tinh,Tu chon,3,Dai hoc tai chuc
+0101006322,Tu tuong Ho Chi Minh,Bat buoc,2,Dai hoc tai chuc
+0101100651,Triet hoc Mac - Lenin,Bat buoc,3,Dai hoc tai chuc
+0101101036,Hoc may,Bat buoc,3,Dai hoc chinh quy
+0101101967,Ma hoa va ung dung,Tu chon,3,Dai hoc chinh quy
+0105827940,Ngon ngu lap trinh python,Tu chon,3,Dai hoc tai chuc
+0101102536,Du lieu lon,Tu chon,2,Dai hoc chinh quy
+0101102529,Tri tue nhan tao,Bat buoc,2,Dai hoc chinh quy
+0101102246,Tieng Anh A1,Tu chon,2,Dai hoc tai chuc
+0101101962,Lap trinh huong doi tuong,Bat buoc,2,Dai hoc chinh quy
+0101101943,Cau truc du lieu va giai thuat,Bat buoc,4,Dai hoc chinh quy
+0101100986,Cau truc roi rac,Bat buoc,3,Dai hoc chinh quy
+0101007629,Dai so tuyen tinh,Bat buoc,3,Dai hoc chinh quy
+0101006046,Tin hoc co ban,Bat buoc,2,Dai hoc chinh quy
+0101003472,Nhap mon lap trinh,Bat buoc,4,Dai hoc chinh quy
+0101001742,He dieu hanh,Bat buoc,3,Dai hoc chinh quy
+0101001697,Vat ly dai cuong,Bat buoc,3,Dai hoc chinh quy
+0101000605,Co so du lieu,Tu chon,3,Dai hoc tai chuc
